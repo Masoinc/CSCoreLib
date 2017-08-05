@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CS-CoreLib">
+    <output-path>E:/Minecraft/SlimeFun Test Server/plugins</output-path>
+    <root id="archive" name="CS-CoreLib.jar">
+      <element id="module-output" name="CSCoreLib" />
+    </root>
+  </artifact>
+</component>
